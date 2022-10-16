@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
-    <html>
-        <body><!-- comment -->
+<html>
+    <body><!-- comment -->
         <H2>
-           It's refer
+            It's refer
         </H2>
-            <a href="employee/askDetails"> Please input details</a>
-        </body>
-    </html>
+        <a href="employee/askDetails"> Please input details</a>
+    </body>
+</html>

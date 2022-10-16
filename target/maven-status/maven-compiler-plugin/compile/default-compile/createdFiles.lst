@@ -1,1 +1,4 @@
+com\myProject\spring\mvc\Employee.class
+com\myProject\spring\mvc\validation\CheckEmail.class
+com\myProject\spring\mvc\validation\CheckEmailValidator.class
 com\myProject\spring\mvc\MyController.class
